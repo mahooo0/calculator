@@ -1,0 +1,20 @@
+.section{
+    width: 30px;
+    height:30px;
+    border-radius: 0.25rem;
+    margin-top : 34px;
+}
+.input_div{
+    gap: 2rem;
+}
+.ansevar{
+    min-width: 4rem;
+    width: auto;
+    height: 2rem;
+    background-color: white;
+    border-radius: 0.25rem;
+}
+.text1{
+    color: white;
+    
+}
